@@ -1,0 +1,48 @@
+Wednesay                                     RATS STILL WORK EVEN WHEN YOU DISCONTECT THEM FROM YOUR LOCL WIFI CONNECTION 
+
+
+
+THE PEOLE LIED WHEN IT COMES TO THE CYBER SIDE
+
+I allways been toold if you pick up a nasty program from a website if its a spayware tool just unhook the wifi in this case what im going to perform is gonna prove thats not the case 
+
+I wannted to take notes on this RAT - remote admin tool commonly know as trogen hourses. The uses are for stealing passwords, remoteing computer, accesing cam, and remotely download exe files or other exions og chioce
+The reat im useing and testing out is called Dark Moon remote admin tools download for windows or linux. Note if you decide to find said tool
+or ant rat - you will have to turn off your antivirus becuse it may come up as a HAck tool or trojen tropper. 
+Sometimes antvirus will show types of scareware its called example ( windows detected a virus and when you go to see what wrung you see the virus comes up as HACKTOOL.exe
+This dose not mean you have a virus i think personly companys try to scare you into removeing harmfull tools that perform attacks. Will if your didn't know some type of attacks depending
+on where that attack is place or what your trying to perform. Example if i make a hack tool and put it on my own computer its fine. The part where the line draws is where you place it on a friends, or stanger
+or anybodys computer to try to harm/inflect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 NOT TO THE USER WHOM HE>SHE TRYS TO REPERFORM THIS ATTACK
+                                                                         I WOULD READ ME
+
+
+
+                                   Note for trogen hourseing a victims computer to try to be funny may not be funny to the other person and they may press charges
+                                         The law says you will be charge with invaion of privcy, brakeing a entering and knowingly and willing trying to destroy things.
+                                                       that right there is allready 3 charges just for puting rats/backdoors/trojenhorses on someones computer.
+                                        The worst part if you decide to put this type of sofware on any ferdal grounds example a schoopl its consider a ferdal means a fenley and you go to prison
+
+        It make me wonder why cyber attacks of any type such as this is token so brutal. It makes you think people out there rape and kill and you sit here and hack a computer and you may server more of a punshment then them
+
